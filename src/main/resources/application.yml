@@ -1,0 +1,23 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: OnlineJudge
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/OnlineJudge
+    username: postgres
+    password: ajin13433
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgresPlusDialect
+
+#  security:
+#    user:
+#      name: anmol.jain
+#      password: ajin123
+#      roles: USER
