@@ -19,10 +19,3 @@ spring:
 
 jwt:
   secret: ${JWT_SECRET}
-
-
-#  security:
-#    user:
-#      name: anmol.jain
-#      password: ajin123
-#      roles: USER
