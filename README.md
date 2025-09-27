@@ -1,4 +1,4 @@
-Full-Stack Online Judge Platform
+Online Judge Platform
 
 This is a comprehensive, full-stack Online Judge platform designed for competitive programming enthusiasts to practice and improve their coding skills.The application features a secure, scalable backend built
 with Spring Boot and a modern, responsive frontend developed with React. The core of the platform is its robust judging engine, which securely compiles and executes user-submitted code in isolated Docker 
